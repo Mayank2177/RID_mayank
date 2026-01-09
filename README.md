@@ -1,11 +1,9 @@
-# RID_mayank
+# 
 
-A short description: Repository contains a Streamlit app (app.py) for RID_mayank.
 
 ## Prerequisites
 
 - Python 3.8+ installed
-- git (optional)
 
 ## Install (recommended)
 
@@ -59,10 +57,6 @@ streamlit run app.py --server.headless true --server.port 8501
 - If Streamlit is not found, ensure your virtual environment is activated and `streamlit` is installed.
 - If dependencies are not listed, inspect `app.py` for imports and add any missing packages to `requirements.txt`.
 
-## Notes
-
-- If you want a pinned set of dependencies, create and commit a `requirements.txt` using:
-  ```bash
   pip freeze > requirements.txt
   ```
 - For deployment (Heroku, Docker, Streamlit Cloud), follow the respective platform instructions and ensure `requirements.txt` and `app.py` are present.
