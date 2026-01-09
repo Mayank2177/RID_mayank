@@ -1,5 +1,7 @@
 # Receipt and Invoice Digitizer
 
+A system that automatically scans, extracts, and digitizes information from receipts and invoices using OCR (Optical Character Recognition) and NLP-based field extraction. The digitized data is stored in a structured format, making it easy to search, analyze, and integrate with accounting or ERP systems.
+
 
 ## Prerequisites
 
