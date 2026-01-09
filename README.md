@@ -1,4 +1,4 @@
-# 
+# Receipt and Invoice Digitizer
 
 
 ## Prerequisites
