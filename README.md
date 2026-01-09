@@ -57,6 +57,7 @@ streamlit run app.py --server.headless true --server.port 8501
 - If Streamlit is not found, ensure your virtual environment is activated and `streamlit` is installed.
 - If dependencies are not listed, inspect `app.py` for imports and add any missing packages to `requirements.txt`.
 
+```bash
   pip freeze > requirements.txt
   ```
 - For deployment (Heroku, Docker, Streamlit Cloud), follow the respective platform instructions and ensure `requirements.txt` and `app.py` are present.
